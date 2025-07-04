@@ -65,7 +65,7 @@ Before diving into analysis, the dataset was cleaned using:
 ## 📬 Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sarang8114)  
-- 📧 Email: sarang.pavanaskar@gmail.com  
+- 📧 Email: sarangpavanaskar08@gmail.com  
 - 🌐 [GitHub](https://github.com/sarang8114)
 
 ---
